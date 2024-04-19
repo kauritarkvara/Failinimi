@@ -1,3 +1,5 @@
 - Mõtetu programm millega saab failinime vaadata.
 - See on tehtud Pythoniga.
 - Sa saad muuta seda projekti kuidas ise tahad.
+- Tõmba alla leheküljelt github.com/kauritarkvara/Failinimi
+- Kauritarkvara (kauritarkvara.github.io)
